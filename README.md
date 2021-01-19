@@ -1,2 +1,2 @@
 # BioVerbNet
-BioVerbNet: A large semantic-syntacticclassification of verbs in biomedicine
+BioVerbNet: A large semantic-syntactic classification of verbs in biomedicine
