@@ -1,7 +1,7 @@
 
 # BioVerbNet: A large semantic-syntactic classification of verbs in biomedicine
 
-This repository hosts the full BioVerbNet classification described in our [paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-021-00247-z) Please cite it where appropriate.
+This repository hosts the full BioVerbNet classification described in our [paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-021-00247-z). Please cite it where appropriate.
 
 ## Abstract
 ### Background
